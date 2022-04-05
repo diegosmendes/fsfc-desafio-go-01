@@ -23,3 +23,7 @@ A imagem de nosso projeto Go precisa ter menos de 2MB =)
 
 
 Divirta-se!
+
+
+** EDIT **
+Docker Hub Image: https://hub.docker.com/repository/docker/diegosmendes86/codeeducation
